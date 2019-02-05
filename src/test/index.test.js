@@ -7,4 +7,3 @@ describe("Word watch functions", () => {
     })
   })
 })
-
